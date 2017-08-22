@@ -1,0 +1,613 @@
+{
+    "PlayerID": "p20000681",
+    "Name": "Aaron Gordon",
+    "TeamID": "t5",
+    "Team": "ORL",
+    "GameStats": [
+        {
+            "Opponent": "DET",
+            "Date": "2017-04-12T00:00:00",
+            "StatValue": "32.00",
+            "Won": true
+        },
+        {
+            "Opponent": "CLE",
+            "Date": "2017-04-04T00:00:00",
+            "StatValue": "12",
+            "Won": false
+        },
+        {
+            "Opponent": "BKN",
+            "Date": "2017-04-01T00:00:00",
+            "StatValue": "22",
+            "Won": false
+        },
+        {
+            "Opponent": "BOS",
+            "Date": "2017-03-31T00:00:00",
+            "StatValue": "32",
+            "Won": false
+        },
+        {
+            "Opponent": "OKC",
+            "Date": "2017-03-29T00:00:00",
+            "StatValue": "13",
+            "Won": false
+        },
+        {
+            "Opponent": "TOR",
+            "Date": "2017-03-27T00:00:00",
+            "StatValue": "16",
+            "Won": false
+        },
+        {
+            "Opponent": "DET",
+            "Date": "2017-03-24T00:00:00",
+            "StatValue": "16",
+            "Won": true
+        },
+        {
+            "Opponent": "CHA",
+            "Date": "2017-03-22T00:00:00",
+            "StatValue": "7",
+            "Won": false
+        },
+        {
+            "Opponent": "PHI",
+            "Date": "2017-03-20T00:00:00",
+            "StatValue": "17",
+            "Won": true
+        },
+        {
+            "Opponent": "PHO",
+            "Date": "2017-03-17T00:00:00",
+            "StatValue": "17",
+            "Won": true
+        },
+        {
+            "Opponent": "GS",
+            "Date": "2017-03-16T00:00:00",
+            "StatValue": "6",
+            "Won": false
+        },
+        {
+            "Opponent": "SAC",
+            "Date": "2017-03-13T00:00:00",
+            "StatValue": "17",
+            "Won": false
+        },
+        {
+            "Opponent": "CLE",
+            "Date": "2017-03-11T00:00:00",
+            "StatValue": "16",
+            "Won": false
+        },
+        {
+            "Opponent": "CHA",
+            "Date": "2017-03-10T00:00:00",
+            "StatValue": "20",
+            "Won": false
+        },
+        {
+            "Opponent": "CHI",
+            "Date": "2017-03-08T00:00:00",
+            "StatValue": "13",
+            "Won": true
+        },
+        {
+            "Opponent": "WAS",
+            "Date": "2017-03-05T00:00:00",
+            "StatValue": "15",
+            "Won": false
+        },
+        {
+            "Opponent": "MIA",
+            "Date": "2017-03-03T00:00:00",
+            "StatValue": "21",
+            "Won": true
+        },
+        {
+            "Opponent": "NY",
+            "Date": "2017-03-01T00:00:00",
+            "StatValue": "10",
+            "Won": false
+        },
+        {
+            "Opponent": "POR",
+            "Date": "2017-02-23T00:00:00",
+            "StatValue": "9",
+            "Won": false
+        },
+        {
+            "Opponent": "SA",
+            "Date": "2017-02-15T00:00:00",
+            "StatValue": "11",
+            "Won": false
+        },
+        {
+            "Opponent": "MIA",
+            "Date": "2017-02-13T00:00:00",
+            "StatValue": "8",
+            "Won": true
+        },
+        {
+            "Opponent": "HOU",
+            "Date": "2017-02-07T00:00:00",
+            "StatValue": "7",
+            "Won": false
+        },
+        {
+            "Opponent": "ATL",
+            "Date": "2017-02-04T00:00:00",
+            "StatValue": "16",
+            "Won": false
+        },
+        {
+            "Opponent": "TOR",
+            "Date": "2017-02-03T00:00:00",
+            "StatValue": "1",
+            "Won": true
+        },
+        {
+            "Opponent": "IND",
+            "Date": "2017-02-01T00:00:00",
+            "StatValue": "7",
+            "Won": false
+        },
+        {
+            "Opponent": "MIN",
+            "Date": "2017-01-30T00:00:00",
+            "StatValue": "12",
+            "Won": false
+        },
+        {
+            "Opponent": "TOR",
+            "Date": "2017-01-29T00:00:00",
+            "StatValue": "7",
+            "Won": true
+        },
+        {
+            "Opponent": "BOS",
+            "Date": "2017-01-27T00:00:00",
+            "StatValue": "13",
+            "Won": false
+        },
+        {
+            "Opponent": "CHI",
+            "Date": "2017-01-24T00:00:00",
+            "StatValue": "13",
+            "Won": false
+        },
+        {
+            "Opponent": "GS",
+            "Date": "2017-01-22T00:00:00",
+            "StatValue": "8",
+            "Won": false
+        },
+        {
+            "Opponent": "MIL",
+            "Date": "2017-01-20T00:00:00",
+            "StatValue": "17",
+            "Won": true
+        },
+        {
+            "Opponent": "NO",
+            "Date": "2017-01-18T00:00:00",
+            "StatValue": "14",
+            "Won": false
+        },
+        {
+            "Opponent": "DEN",
+            "Date": "2017-01-16T00:00:00",
+            "StatValue": "4",
+            "Won": false
+        },
+        {
+            "Opponent": "UTA",
+            "Date": "2017-01-14T00:00:00",
+            "StatValue": "21",
+            "Won": false
+        },
+        {
+            "Opponent": "POR",
+            "Date": "2017-01-13T00:00:00",
+            "StatValue": "8",
+            "Won": true
+        },
+        {
+            "Opponent": "LAC",
+            "Date": "2017-01-11T00:00:00",
+            "StatValue": "28",
+            "Won": false
+        },
+        {
+            "Opponent": "LAL",
+            "Date": "2017-01-08T00:00:00",
+            "StatValue": "2",
+            "Won": false
+        },
+        {
+            "Opponent": "HOU",
+            "Date": "2017-01-06T00:00:00",
+            "StatValue": "18",
+            "Won": false
+        },
+        {
+            "Opponent": "ATL",
+            "Date": "2017-01-04T00:00:00",
+            "StatValue": "15",
+            "Won": false
+        },
+        {
+            "Opponent": "NY",
+            "Date": "2017-01-02T00:00:00",
+            "StatValue": "22",
+            "Won": true
+        },
+        {
+            "Opponent": "IND",
+            "Date": "2017-01-01T00:00:00",
+            "StatValue": "13",
+            "Won": false
+        },
+        {
+            "Opponent": "CHA",
+            "Date": "2016-12-28T00:00:00",
+            "StatValue": "2",
+            "Won": false
+        },
+        {
+            "Opponent": "MEM",
+            "Date": "2016-12-26T00:00:00",
+            "StatValue": "30",
+            "Won": true
+        },
+        {
+            "Opponent": "LAL",
+            "Date": "2016-12-23T00:00:00",
+            "StatValue": "9",
+            "Won": true
+        },
+        {
+            "Opponent": "NY",
+            "Date": "2016-12-22T00:00:00",
+            "StatValue": "6",
+            "Won": false
+        },
+        {
+            "Opponent": "MIA",
+            "Date": "2016-12-20T00:00:00",
+            "StatValue": "12",
+            "Won": true
+        },
+        {
+            "Opponent": "TOR",
+            "Date": "2016-12-18T00:00:00",
+            "StatValue": "7",
+            "Won": false
+        },
+        {
+            "Opponent": "BKN",
+            "Date": "2016-12-16T00:00:00",
+            "StatValue": "13",
+            "Won": true
+        },
+        {
+            "Opponent": "LAC",
+            "Date": "2016-12-14T00:00:00",
+            "StatValue": "33",
+            "Won": false
+        },
+        {
+            "Opponent": "ATL",
+            "Date": "2016-12-13T00:00:00",
+            "StatValue": "7",
+            "Won": true
+        },
+        {
+            "Opponent": "DEN",
+            "Date": "2016-12-10T00:00:00",
+            "StatValue": "11",
+            "Won": false
+        },
+        {
+            "Opponent": "CHA",
+            "Date": "2016-12-09T00:00:00",
+            "StatValue": "9",
+            "Won": false
+        },
+        {
+            "Opponent": "BOS",
+            "Date": "2016-12-07T00:00:00",
+            "StatValue": "5",
+            "Won": false
+        },
+        {
+            "Opponent": "WAS",
+            "Date": "2016-12-06T00:00:00",
+            "StatValue": "9",
+            "Won": true
+        },
+        {
+            "Opponent": "DET",
+            "Date": "2016-12-04T00:00:00",
+            "StatValue": "10",
+            "Won": true
+        },
+        {
+            "Opponent": "PHI",
+            "Date": "2016-12-02T00:00:00",
+            "StatValue": "20",
+            "Won": true
+        },
+        {
+            "Opponent": "MEM",
+            "Date": "2016-12-01T00:00:00",
+            "StatValue": "8",
+            "Won": false
+        },
+        {
+            "Opponent": "SA",
+            "Date": "2016-11-29T00:00:00",
+            "StatValue": "11",
+            "Won": true
+        },
+        {
+            "Opponent": "MIL",
+            "Date": "2016-11-27T00:00:00",
+            "StatValue": "0",
+            "Won": false
+        },
+        {
+            "Opponent": "WAS",
+            "Date": "2016-11-25T00:00:00",
+            "StatValue": "9",
+            "Won": false
+        },
+        {
+            "Opponent": "PHO",
+            "Date": "2016-11-23T00:00:00",
+            "StatValue": "9",
+            "Won": false
+        },
+        {
+            "Opponent": "MIL",
+            "Date": "2016-11-21T00:00:00",
+            "StatValue": "5",
+            "Won": false
+        },
+        {
+            "Opponent": "DAL",
+            "Date": "2016-11-19T00:00:00",
+            "StatValue": "5",
+            "Won": true
+        },
+        {
+            "Opponent": "NO",
+            "Date": "2016-11-16T00:00:00",
+            "StatValue": "10",
+            "Won": true
+        },
+        {
+            "Opponent": "IND",
+            "Date": "2016-11-14T00:00:00",
+            "StatValue": "11",
+            "Won": false
+        },
+        {
+            "Opponent": "OKC",
+            "Date": "2016-11-13T00:00:00",
+            "StatValue": "12",
+            "Won": true
+        },
+        {
+            "Opponent": "UTA",
+            "Date": "2016-11-11T00:00:00",
+            "StatValue": "9",
+            "Won": false
+        },
+        {
+            "Opponent": "MIN",
+            "Date": "2016-11-09T00:00:00",
+            "StatValue": "7",
+            "Won": false
+        },
+        {
+            "Opponent": "CHI",
+            "Date": "2016-11-07T00:00:00",
+            "StatValue": "15",
+            "Won": false
+        },
+        {
+            "Opponent": "WAS",
+            "Date": "2016-11-05T00:00:00",
+            "StatValue": "9",
+            "Won": true
+        },
+        {
+            "Opponent": "SAC",
+            "Date": "2016-11-03T00:00:00",
+            "StatValue": "13",
+            "Won": true
+        },
+        {
+            "Opponent": "PHI",
+            "Date": "2016-11-01T00:00:00",
+            "StatValue": "7",
+            "Won": true
+        },
+        {
+            "Opponent": "CLE",
+            "Date": "2016-10-29T00:00:00",
+            "StatValue": "8",
+            "Won": false
+        },
+        {
+            "Opponent": "DET",
+            "Date": "2016-10-28T00:00:00",
+            "StatValue": "17",
+            "Won": false
+        },
+        {
+            "Opponent": "MIA",
+            "Date": "2016-10-26T00:00:00",
+            "StatValue": "12",
+            "Won": false
+        },
+        {
+            "Opponent": "CHA",
+            "Date": "2016-04-13T00:00:00",
+            "StatValue": "22",
+            "Won": false
+        },
+        {
+            "Opponent": "DET",
+            "Date": "2016-04-06T00:00:00",
+            "StatValue": "6",
+            "Won": false
+        },
+        {
+            "Opponent": "MEM",
+            "Date": "2016-04-03T00:00:00",
+            "StatValue": "14",
+            "Won": true
+        },
+        {
+            "Opponent": "MIL",
+            "Date": "2016-04-01T00:00:00",
+            "StatValue": "14",
+            "Won": false
+        },
+        {
+            "Opponent": "IND",
+            "Date": "2016-03-31T00:00:00",
+            "StatValue": "6",
+            "Won": true
+        },
+        {
+            "Opponent": "BKN",
+            "Date": "2016-03-29T00:00:00",
+            "StatValue": "20",
+            "Won": true
+        },
+        {
+            "Opponent": "CHI",
+            "Date": "2016-03-26T00:00:00",
+            "StatValue": "9",
+            "Won": true
+        },
+        {
+            "Opponent": "MIA",
+            "Date": "2016-03-25T00:00:00",
+            "StatValue": "4",
+            "Won": false
+        },
+        {
+            "Opponent": "DET",
+            "Date": "2016-03-23T00:00:00",
+            "StatValue": "15",
+            "Won": false
+        },
+        {
+            "Opponent": "BOS",
+            "Date": "2016-03-21T00:00:00",
+            "StatValue": "13",
+            "Won": false
+        },
+        {
+            "Opponent": "TOR",
+            "Date": "2016-03-20T00:00:00",
+            "StatValue": "6",
+            "Won": false
+        },
+        {
+            "Opponent": "CLE",
+            "Date": "2016-03-18T00:00:00",
+            "StatValue": "7",
+            "Won": false
+        },
+        {
+            "Opponent": "CHA",
+            "Date": "2016-03-16T00:00:00",
+            "StatValue": "0",
+            "Won": false
+        },
+        {
+            "Opponent": "DEN",
+            "Date": "2016-03-15T00:00:00",
+            "StatValue": "16",
+            "Won": true
+        },
+        {
+            "Opponent": "POR",
+            "Date": "2016-03-12T00:00:00",
+            "StatValue": "17",
+            "Won": false
+        },
+        {
+            "Opponent": "SAC",
+            "Date": "2016-03-11T00:00:00",
+            "StatValue": "20",
+            "Won": true
+        },
+        {
+            "Opponent": "LAL",
+            "Date": "2016-03-08T00:00:00",
+            "StatValue": "5",
+            "Won": false
+        },
+        {
+            "Opponent": "GS",
+            "Date": "2016-03-07T00:00:00",
+            "StatValue": "20",
+            "Won": false
+        },
+        {
+            "Opponent": "PHO",
+            "Date": "2016-03-04T00:00:00",
+            "StatValue": "4",
+            "Won": false
+        },
+        {
+            "Opponent": "CHI",
+            "Date": "2016-03-02T00:00:00",
+            "StatValue": "13",
+            "Won": true
+        },
+        {
+            "Opponent": "DAL",
+            "Date": "2016-03-01T00:00:00",
+            "StatValue": "7",
+            "Won": false
+        },
+        {
+            "Opponent": "PHI",
+            "Date": "2016-02-28T00:00:00",
+            "StatValue": "22",
+            "Won": true
+        },
+        {
+            "Opponent": "NY",
+            "Date": "2016-02-26T00:00:00",
+            "StatValue": "17",
+            "Won": false
+        },
+        {
+            "Opponent": "GS",
+            "Date": "2016-02-25T00:00:00",
+            "StatValue": "19",
+            "Won": false
+        },
+        {
+            "Opponent": "PHI",
+            "Date": "2016-02-23T00:00:00",
+            "StatValue": "11",
+            "Won": true
+        }
+    ],
+    "StatType": "Points",
+    "AverageStatValue": "12.43",
+    "OutlyingStatValue": "32.00",
+    "GoodPerformance": true,
+    "Date": "2017-04-12T00:00:00"
+}
